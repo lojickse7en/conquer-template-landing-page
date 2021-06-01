@@ -24,7 +24,11 @@
     /* width: 100%; */
     /* padding: 10 10px 10; */
 }
-
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    
+}
 
 .navbar ul{
     /* color: ivory; */
@@ -33,12 +37,14 @@
     /* padding: 10 100px 10; */
     /* margin: 10 100px 10px; */
     /* background-color: aqua; */
+    
 }
 
 .test {
     width: 700px;
     /* background-color: khaki; */
     /* padding: 20px 20px; */
+    
 }
 
 .test li {
@@ -461,6 +467,7 @@ textarea {
     font-size: 16px;
     padding-bottom: 50px;
 
+
 }
 
 hr {
@@ -470,7 +477,8 @@ hr {
     border-top: 1px solid #eee;
 }
 
-.copyright {
-    padding-top: 30px;
-    font-size: 300px;
+.sec7 .copyright {
+    padding-top: 40px;
+    font-size: 12px;
+    padding-bottom: 20px;
 }
